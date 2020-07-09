@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  service_type: MyString
+  service: one
+  client: one
+  details: MyText
+  completed: false
+
+two:
+  title: MyString
+  service_type: MyString
+  service: two
+  client: two
+  details: MyText
+  completed: false
